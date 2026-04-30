@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
         <Link to="/" className="navbar-brand fw-bold">
-          📚 LearnHub
+          LMSAPP 📕
         </Link>
         <ul className="navbar-nav ms-auto">
           <li className="nav-item">
